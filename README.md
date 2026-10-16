@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Design_Patterns-GoF-2563eb?style=for-the-badge" alt="Design Patterns GoF" />
+  <img src="https://img.shields.io/badge/Replit-Homologado-green?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Homologado" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/DIO-Bootcamp-red?style=for-the-badge" alt="DIO Bootcamp" />
 </p>
@@ -59,6 +60,7 @@ Demonstrar a aplicação prática de padrões arquiteturais em Java para garanti
   <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17+" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/API_REST-2563eb?style=flat-square" alt="API REST" />
+  <img src="https://img.shields.io/badge/Replit-666666?style=flat-square&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
@@ -72,31 +74,4 @@ Clone os repositórios executando os comandos abaixo no terminal:
 **Repositório Java Puro**
 
 ```bash
-git clone https://github.com/Rafael-TOZATO/lab-padroes-projeto-java.git
-```
-
-**Repositório Spring Framework**
-
-```bash
-git clone https://github.com/Rafael-TOZATO/lab-padroes-projeto-spring.git
-```
-
-**Repositório Consolidado (Java Puro e Spring)**
-
-```bash
-git clone https://github.com/Rafael-TOZATO/lab-padroes-projeto-java-spring.git
-```
-
----
-
-## 📬 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafaeltozato81"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Rafael-TOZATO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://medium.com/@ornelas.tozato"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://web.dio.me/users/ornelas_tozato"><img src="https://img.shields.io/badge/DIO-Perfil-red?style=for-the-badge" alt="Perfil DIO" /></a>
-  <a href="https://tozato-dev-hub.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-</p>
-
-**Rafael Ornelas Tozato**
+git clone [https://github.com/Rafael-TOZATO/lab-padroes-projeto-java.git](https://github.com/Rafael-TOZATO/lab-padroes-projeto-java.git)
